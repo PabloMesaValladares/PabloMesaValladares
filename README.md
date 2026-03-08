@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hola 👋, Pablo Mesa
+#### Programador Full Stack | Desarrollador de videojuegos en Unity
+![Programador Full Stack | Desarrollador de videojuegos en Unity](https://i.postimg.cc/SsJcSVbq/banner.jpg)
 
-<!--
-**PabloMesaValladares/PabloMesaValladares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Pablo, un joven programador Full Stack y Desarrollador de Videojuegos apasionado por la programación y la creación de experiencias interactivas.
 
-Here are some ideas to get you started:
+Graduado en IFP como Técnico Superior en Videojuegos y Ocio Digital.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente sigo formándome en nuevas tecnologías y lenguajes de programación, mientras desarrollo mis propios proyectos personales.
+
+Habilidades: C# / Python / JS / HTML / CSS
+
+- 🔭 Estoy trabajando en Un proyecto de Videojuego personal 
+- 📫 Cómo contactarme: Gmail: Pmesavalladares@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/pablo-mesa-valladares//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/PabloMesaValladares)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googledrive.svg' alt='googledrive' height='40'>](https://drive.google.com/drive/folders/1coNcs-VK62ExUY7BlBbeaOF0S7g0nn2e?usp=sharing)  
+
