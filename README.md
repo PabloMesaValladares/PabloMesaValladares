@@ -1,11 +1,9 @@
-### Hola 👋, Pablo Mesa
+### Pablo Mesa
 #### Programador Full Stack | Desarrollador de videojuegos en Unity
 ![Programador Full Stack | Desarrollador de videojuegos en Unity](https://i.postimg.cc/SsJcSVbq/banner.jpg)
 
 Soy Pablo, un joven programador Full Stack y Desarrollador de Videojuegos apasionado por la programación y la creación de experiencias interactivas.
-
 Graduado en IFP como Técnico Superior en Videojuegos y Ocio Digital.
-
 Actualmente sigo formándome en nuevas tecnologías y lenguajes de programación, mientras desarrollo mis propios proyectos personales.
 
 Habilidades: C# / Python / JS / HTML / CSS
