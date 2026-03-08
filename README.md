@@ -4,7 +4,7 @@
 
 Soy Pablo, un joven programador Full Stack y Desarrollador de Videojuegos apasionado por la programación y la creación de experiencias interactivas.
 Graduado en IFP como Técnico Superior en Videojuegos y Ocio Digital.
-Actualmente sigo formándome en nuevas tecnologías y lenguajes de programación, mientras desarrollo mis propios proyectos personales.
+Actualmente sigo formándome en nuevas tecnologías y lenguajes de programación e inteligencia artificial, mientras desarrollo mis propios proyectos personales.
 
 ## Habilidades
 
